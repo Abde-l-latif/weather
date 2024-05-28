@@ -1,5 +1,6 @@
 # about
 __weather__
+
 *wind speed*
 
 *degree celsius*
@@ -7,4 +8,4 @@ __weather__
 *Humidity*
 
 ## how
-*by city name*
+*by writing city name*
