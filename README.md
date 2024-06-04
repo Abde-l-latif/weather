@@ -8,3 +8,6 @@ __weather__
 
 ### warning 
 *you have to write city name correctly*
+
+#### link
+https://weather-n-0.netlify.app/
